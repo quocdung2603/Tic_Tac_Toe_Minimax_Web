@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.main-menu {
+    margin-top: 100px;
+}
+
+.main-menu h1 {
+    font-size: 36px;
+}
+
+.main-menu button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.game-board {
+    display: none;
+}
